@@ -1,4 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 .body {
+  padding: 0;
   width: 1600px;
   height: 3229px;
   margin: 0 auto;
@@ -106,64 +111,60 @@ span {
   font-size: 40px;
 }
 
-#Forth{
-    background-image: url(images/watch.png);
-    width: 1140px;
-    height: 300px;
-    margin-left: 200px;
+#Forth {
+  background-image: url(images/watch.png);
+  width: 1140px;
+  height: 300px;
+  margin-left: 200px;
 }
-#Shadow{
-    background-image: url(images/gradient1.png);
-    width: 1140px;
-    height: 300px;
-    font-size: 15px;
-    font-weight:700 ;
-
+#Shadow {
+  background-image: url(images/gradient1.png);
+  width: 1140px;
+  height: 300px;
+  font-size: 15px;
+  font-weight: 700;
 }
-#Shadow-Text{
-    color:white;
-    width:400px;
-    margin-left: 50px;
-    padding-top: 50px;
-
+#Shadow-Text {
+  color: white;
+  width: 400px;
+  margin-left: 50px;
+  padding-top: 50px;
 }
-footer{
-    width:1600px;
-    height: 577px;
-    background-color: black;
-    color:white;
-    display: flex;
-    margin-top: 100px;
-    justify-content: center;
+footer {
+  width: 1600px;
+  height: 577px;
+  background-color: black;
+  color: white;
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
 }
-.f-1{
-    font-size: 16;
-    font-weight: 500;
-    width:500px;
-    height: 400px;
-
+.f-1 {
+  font-size: 16;
+  font-weight: 500;
+  width: 500px;
+  height: 400px;
 }
-.f-1 h1{
-    font-size: 45;
-    font-weight: 700;
+.f-1 h1 {
+  font-size: 45;
+  font-weight: 700;
 }
 
-input{
-    width:325px;
-    height: 40px;
-    padding-left: 20px;
+input {
+  width: 325px;
+  height: 40px;
+  padding-left: 20px;
 }
-footer h1{
-    font-size:25 ;
-    font-weight: 600;
+footer h1 {
+  font-size: 25;
+  font-weight: 600;
 }
-#s{
-    height: 64px;
-    width: 160px;
-    font-weight: 600;
-    font-size: 25px;
-    color:aliceblue;
-    background-color: #005fac;
-    margin-top: 10px;
-
+#s {
+  height: 64px;
+  width: 160px;
+  font-weight: 600;
+  font-size: 25px;
+  color: aliceblue;
+  background-color: #005fac;
+  margin-top: 10px;
 }
